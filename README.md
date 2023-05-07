@@ -1,5 +1,5 @@
-# Web Wizards
-# Expense Tracker and Task Manager
+
+# Expense Tracker 
 
 This is a web application built using React , Node with its libraries and MongoDB which allows users to track their transaction and manage their tasks.
 
@@ -36,12 +36,7 @@ npm run dev
 
 - Perform CRUD operations on transactions categorized into Income/Expenses.
 - View transactions in a list or in Chart form for comparison.
-- Filter Transaction according to its type, date.
-
-### Task Manager
-
-- Perform CRUD operations on Tasks.
-- Filter Tasks according to requirement. 
+- Filter Transaction according to its type, date. 
 
 ## Folder Structure
 
@@ -78,6 +73,4 @@ npm run dev
     "redux": "^4.2.1",
     "web-vitals": "^2.1.4"
 
-## Contributing
 
-If you find a bug or have a feature request, please open an issue on the GitHub repository. If you would like to contribute code, please fork the repository and submit a pull request.
